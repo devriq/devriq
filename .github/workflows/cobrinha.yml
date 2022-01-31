@@ -24,4 +24,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   
-© 2022 GitHub, Inc. Terms Privacy
+© 2022 GitHub, Inc. 
+Terms 
+Privacy
