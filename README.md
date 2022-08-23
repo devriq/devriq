@@ -26,9 +26,8 @@
 <p align="center">&nbsp;<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=devriq&show_icons=true&locale=en&theme=react" alt="devriq" /></p>
 
 <h3 align="center">Activity</h3>
+
  ![Snake animation](https://github.com/devriq/devriq/blob/output/github-contribution-grid-snake.svg)
- 
-            
-<div>
+
 
 
