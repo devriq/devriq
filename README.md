@@ -1,8 +1,9 @@
 <!--
 **devriq/devriq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1 align="center">Hi 👋, I'm Arthur Henrique Costa Cordovil</h1>
-<h3 align="center">An enthusiastic front-end developer from Brazil</h3>
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/devriq/60f0317081d4bd13d9b561e2e11ff360/raw/9a89436c30e6192c5e67b6f17c1b4703f3590514/eu_profile.svg"/>
+<h1 align="left">Hi 👋, I'm Arthur Henrique Costa Cordovil</h1>
+<h3 align="left">An enthusiastic front-end developer from Brazil</h3>
 
 - 🔭 I’m currently working on **Clinical Forms**
 
@@ -12,7 +13,7 @@
 
 - 📫 How to reach me **devriq.cordovil@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center" width="100%">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/arthurhcordovil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthurhcordovil" height="30" width="40" /></a>
 </p>
