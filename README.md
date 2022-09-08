@@ -2,7 +2,7 @@
 **devriq/devriq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <img align="right" height="500em" src="https://raw.githubusercontent.com/gist/devriq/60f0317081d4bd13d9b561e2e11ff360/raw/9a89436c30e6192c5e67b6f17c1b4703f3590514/eu_profile.svg"/>
-<h1 align="left">Hi 👋, I'm Arthur Henrique Costa Cordovil</h1>
+<h1 align="left">Hello 👋, I'm Arthur Henrique Costa Cordovil</h1>
 <h3 align="left">An enthusiastic front-end developer from Brazil</h3>
 
 - 🔭 I’m currently working on **Clinical Forms**
