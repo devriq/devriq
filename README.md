@@ -5,9 +5,9 @@
 <h1 align="left">Hello 👋, I'm Arthur Henrique Costa Cordovil</h1>
 <h3 align="left">An enthusiastic front-end developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Clinical Forms**
+- 🔭 I’m currently working on **CRUD Projects**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Webstores and Dashboard developments projects**
 
